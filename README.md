@@ -76,7 +76,6 @@ Edit `.streamlit/secrets.toml` and enter your own credentials:
 
 ```toml
 GEMINI_API_KEY = "your-gemini-api-key"
-GEMINI_MODEL = "your-configured-gemini-model"
 TWILIO_ACCOUNT_SID = "your-twilio-account-sid"
 TWILIO_AUTH_TOKEN = "your-twilio-auth-token"
 TWILIO_WHATSAPP_NUMBER = "your-twilio-whatsapp-sender"
